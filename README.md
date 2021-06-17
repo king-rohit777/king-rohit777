@@ -1,4 +1,4 @@
-### Hi there, I'm Rohit - aka [Rj_King] 👋
+### Hi there, I'm Rohit - aka !Rj_King! 👋
 
 ## I'm a Student, Developer, Coding enthusiast and a multipotentialite!!
 
@@ -33,12 +33,18 @@
 
 ### Github Stats:
 
-<a href="https://github.com/king-rohit777">
-<img align="center" alt="Rohit's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=king-rohit777&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-
-<a href="https://github.com/king-rohit777">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=king-rohit777&layout=compact&theme=radical" />
+<a href="https://github.com/king-rohit777/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=king-rohit777&show_icons=true&theme=tokyonight" />
 </a>
+<a href="https://github.com/king-rohit777/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-rohit777&layout=compact&show_icons=true&theme=tokyonight" />
+</a>
+
+<!-- 
+[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=king-rohit777&show_icons=true&theme=tokyonight)](https://github.com/king-rohit777/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king-rohit777&layout=compact)](https://github.com/king-rohit777/github-readme-stats) -->
+
+
 
 ### Connect with me:
 

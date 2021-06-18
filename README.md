@@ -34,15 +34,18 @@
 ### Github Stats:
 
 <a href="https://github.com/king-rohit777/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=king-rohit777&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=king-rohit777&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/king-rohit777/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-rohit777&layout=compact&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-rohit777&layout=compact&show_icons=true&theme=chartreuse-dark" />
 </a>
 
 <!-- 
 [![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=king-rohit777&show_icons=true&theme=tokyonight)](https://github.com/king-rohit777/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king-rohit777&layout=compact)](https://github.com/king-rohit777/github-readme-stats) -->
+
+
+
 
 
 

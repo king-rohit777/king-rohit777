@@ -41,7 +41,7 @@
 </a>
 
 <!-- 
-[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=king-rohit777&show_icons=true&theme=tokyonight)](https://github.com/king-rohit777/github-readme-stats)
+[![Rohit'skjj GitHub stats](https://github-readme-stats.vercel.app/api?username=king-rohit777&show_icons=true&theme=tokyonight)](https://github.com/king-rohit777/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king-rohit777&layout=compact)](https://github.com/king-rohit777/github-readme-stats) -->
 
 

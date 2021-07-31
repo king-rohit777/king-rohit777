@@ -13,7 +13,7 @@
 ### Spotify Playing 🎧
 <table width="100%">         
   <tr>       
-  <td width="50%">
+  <td width="50%">    
     
      
        

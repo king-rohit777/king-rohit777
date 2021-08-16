@@ -46,13 +46,20 @@
 [![Rohit'skjj GitHub stats](https://github-readme-stats.vercel.app/api?username=king-rohit777&show_icons=true&theme=tokyonight)](https://github.com/king-rohit777/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king-rohit777&layout=compact)](https://github.com/king-rohit777/github-readme-stats) -->
 
-
+<p align="center">
+ <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=king-rohit777&theme=react&background=0d1117&border=666">
+  </a>
+<p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=king-rohit777&column=6&theme=onedark" align="center"/>
+</div>
 
   
 
 
 ### Connect with me:
-
+<p align="center">
 
 [<img align="left" alt="RohitJa97063842 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

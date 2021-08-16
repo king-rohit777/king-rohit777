@@ -59,7 +59,7 @@
 
 
 ### Connect with me:
-<p align="center">
+
 
 [<img align="left" alt="RohitJa97063842 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

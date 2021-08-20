@@ -19,7 +19,7 @@
        
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31guxgaeufqh2zbdvn5a3xxky23u)      
 
-  </td>
+  </td>           
   <td width="50%">          
  
 <br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>

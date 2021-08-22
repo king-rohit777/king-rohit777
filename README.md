@@ -27,7 +27,7 @@
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/1LVouEHA)
   [![Visits](https://komarev.com/ghpvc/?username=king-rohit777&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/king-rohit777)
 </p>
-  </td>      
+  </td>             
   </table>
    
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)

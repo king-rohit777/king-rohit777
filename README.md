@@ -33,7 +33,7 @@
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
     
-### Github Stats:
+### Github Stats:       
   
 <a href="https://github.com/king-rohit777/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=king-rohit777&show_icons=true&theme=chartreuse-dark" />

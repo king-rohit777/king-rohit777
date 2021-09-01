@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other on projects     
 - 🤔 I’m looking for help with React.js,Python,Machine Learning                                                               
 - 💬 Ask me about: Web Development, CP                                    
-- 🥅 2021 Goals: Contribute more to Open Source projects                                                           
+- 🥅 2021 Goals: Contribute more to Open Source projects                                                                    
 - ⚡ Fun fact: I love to play games and compete                                                    
                                                                   
 ### Spotify Playing 🎧                               

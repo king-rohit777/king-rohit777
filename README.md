@@ -1,6 +1,6 @@
 ### Hi there, I'm Rohit - aka !Rj_King! 👋
             
-## I'm a Student, Developer, Coding enthusiast and a multipotentialite !!           
+## I'm a Student, Developer, Coding enthusiast and a multipotentialite !!                    
                      
 - 🔭 I’m currently working on Web Development (Javascript),Python,Machine Learning,App Development(NDK)          
 - 🌱 I’m currently learning everything 🤣                            

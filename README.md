@@ -1,4 +1,4 @@
-### Hi there, I'm Rohit - aka !Rj_King! 👋
+### Hi there, I'm Rohit - aka !Rj_King! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
             
 ## I'm a Student, Developer, Coding enthusiast and a multipotentialite !!                    
                      

@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Web Development (Javascript),Python,Machine Learning,App Development(NDK)               
 - 🌱 I’m currently learning everything 🤣                                           
 - 👯 I’m looking to collaborate with others on projects                                  
-- 🤔 I’m looking for help with React.js, Angular and backend stacks                                                                        
+- 🤔 I’m looking for help with React.js, Angular and backend stacks                                                                                           
 - 💬 Ask me about: Web Development, CP                                     
 - 🥅 2021 Goals: Contribute more to Open Source projects                                                                                                              
 - ⚡ Fun fact: I love to play games and compete                                                                
@@ -28,7 +28,7 @@
   [![Visits](https://komarev.com/ghpvc/?username=king-rohit777&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/king-rohit777)
 </p>
   </td>             
-  </table>
+  </table>       
    
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)

@@ -89,5 +89,5 @@
 
 
 [twitter]: https://twitter.com/RohitJa97063842
-[instagram]: https://www.instagram.com/_.rohit.jaiswal._/
+[instagram]: https://www.instagram.com/_.rohit.jaiswal._/  
 [linkedin]: https://www.linkedin.com/in/rohit-jaiswal-0781451b2/

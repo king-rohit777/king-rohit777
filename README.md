@@ -58,12 +58,24 @@
   
 
           
-### Connect with me:
+<!-- ### Connect with me:
 
 
 [<img align="left" alt="RohitJa97063842 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/RohitJa97063842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachdevagrawish" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-jaiswal-0781451b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_.rohit.jaiswal._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.rohit.jaiswal._" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/grawish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="grawish sachdeva" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/grawish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="grawish" height="30" width="40" /></a> -->
+</p>
+
+
 
 <br />
 

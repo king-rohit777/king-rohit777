@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, Coding enthusiast and a multipotentialite !!                    
                           
 - 🔭 I’m currently working on Web Development (Javascript),Python,Machine Learning,App Development(NDK)               
-- 🌱 I’m currently learning everything 🤣                                                              
+- 🌱 I’m currently learning everything 🤣                                                                 
 - 👯 I’m looking to collaborate with others on projects                                             
 - 🤔 I’m looking for help with React.js, Angular and backend stacks                                                                                                             
 - 💬 Ask me about: Web Development, CP                                           

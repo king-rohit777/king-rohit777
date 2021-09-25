@@ -48,9 +48,10 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=king-rohit777&theme=react&background=0d1117&border=666">
   </a>
 <p>
-
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=king-rohit777&no-frame=true&column=7&column=7&theme=onestar" />
-    
+            
+<div align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=king-rohit777&no-frame=true&column=7&column=7&theme=onestar" />
+</div>
                           
                           
 <h3 align="center">Connect with me:</h3>

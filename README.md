@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to play games and compete                                                                              
                                                                                                         
 ### Spotify Playing 🎧                                                     
-<table width="100%">                  
+<table width="100%">                            
   <tr>                   
   <td width="50%">    
     

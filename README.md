@@ -50,7 +50,7 @@
 <p>
 
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=king-rohit777&no-frame=true&column=7&column=7&theme=onestar" />
-   
+    
                           
                           
 <h3 align="center">Connect with me:</h3>

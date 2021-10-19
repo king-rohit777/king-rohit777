@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects                                                                                                                                                                                                                         
 - ⚡ Fun fact: I love to play games and compete                                                                                                          
                                                                                                                 
-### Spotify Playing 🎧                                                     
+### Spotify Playing 🎧                                                            
 <table width="100%">                            
   <tr>                                
   <td width="50%">    

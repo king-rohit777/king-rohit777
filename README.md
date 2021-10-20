@@ -69,7 +69,9 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![picture](https://raw.githubusercontent.com/ProgrammerGaurav/programmergaurav/master/images/dino.gif)
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![picture](https://raw.githubusercontent.com/ProgrammerGaurav/programmergaurav/master/images/dino.gif) -->
+
+![king-rohit777](https://activity-graph.herokuapp.com/graph?username=king-rohit777&theme=react-dark&show_icons=true&count_private=true&area=true&hide_border=true)
 
 [twitter]: https://twitter.com/RohitJa97063842
 [instagram]: https://www.instagram.com/_.rohit.jaiswal._/  

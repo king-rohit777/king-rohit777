@@ -19,9 +19,9 @@
                              
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31guxgaeufqh2zbdvn5a3xxky23u)      
 
-  </td>           
+<!--   </td>           
   <td width="50%">          
- 
+  -->
 <br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/rohit-jaiswal-0781451b2/)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/1LVouEHA)
@@ -34,13 +34,14 @@
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
     
 ### Github Stats:       
-  
+<p align="center">   
 <a href="https://github.com/king-rohit777/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=king-rohit777&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/king-rohit777/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-rohit777&layout=compact&show_icons=true&theme=chartreuse-dark" />
-</a>            
+</a>  
+</p>
   
 
 <p align="center">         
